@@ -1,1 +1,16 @@
-.
+body {
+	margin: 0px; 
+}
+
+header {
+	background-color: #F39C12;
+}
+
+header h1 {
+	color: white;
+}
+
+header img {
+	border-radius: 150px
+	width: 300px;
+}
