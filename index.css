@@ -24,6 +24,6 @@ h1, h2 {
 }
 
 main {
-	text-align: center;
+	margin: 0 auto;
 	background-color: lightgrey;
 }
