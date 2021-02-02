@@ -3,7 +3,6 @@ body {
 }
 
 header {
-	font-family: 'Press Start 2P', cursive;
 	background-color: grey;
 	text-align: center;
 	padding-top: 50px;
@@ -18,4 +17,13 @@ header img {
 	border-radius: 170px;
 	width: 300px;
 	border: 20px solid white;
+}
+
+h1, h2 {
+	font-family: 'Press Start 2P', cursive;
+}
+
+main {
+	text-align: center;
+	background-color: lightgrey;
 }
